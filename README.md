@@ -11,13 +11,13 @@ This evaluates some methods to try and avoid work.
 There are three apps here:
 
 1. guibuttons
-![](/img/guibuttons.png "guibuttons")
+![](img/guibuttons.png "guibuttons")
 
 2. guilist
-![](/img/guilist.png "guilist")
+![](img/guilist.png "guilist")
 
 3. gui_combined
-![](/img/gui_combined.png "gui_combined")
+![](img/gui_combined.png "gui_combined")
 
 gui_combined is built from guibuttons and (2x) guilist. This is done using the function:
 ### Syntax
